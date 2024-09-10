@@ -2,4 +2,6 @@ flask
 pandas
 numpy
 yfinance
+python_dateutil
+gunicorn
 numpy_financial
